@@ -1,0 +1,58 @@
+{
+	"binary_file_patterns":
+	[
+		"*.scssc",
+		"*.sassc",
+		"*.png",
+		"*.gif",
+		"*.xls",
+		"*.jpeg"
+	],
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.jpeg",
+		"*.jpg",
+		"*.scssc",
+		"*.sassc",
+		".DS_Store",
+		"*.xls",
+		"landing.js",
+		"*.png",
+		"*.jpg",
+		"*.jpeg",
+		"*.gif",
+		"*.bmp",
+		"*.pxm",
+		"*.psd",
+		"*.woff",
+		"*.eot",
+		"*.ttf",
+		"*.woff2"
+	],
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		".git",
+		"log",
+		"solr",
+		"tmp-android",
+		"libreoffice",
+		"images"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"RuboCop",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": false
+}

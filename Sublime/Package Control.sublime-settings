@@ -1,0 +1,38 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CoffeeScriptHaml",
+		"Color Highlighter",
+		"Emblem.js Syntax Highlighting",
+		"Fix Mac Path",
+		"HTML2Haml",
+		"Indent XML",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Package Control",
+		"Quick File Creator",
+		"RailsCasts Colour Scheme",
+		"RuboCop",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Theme - Brogrammer",
+		"Theme - Centurion",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"VHDL"
+	]
+}

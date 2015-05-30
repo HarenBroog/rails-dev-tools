@@ -1,0 +1,8 @@
+[
+  { "keys": ["super+."], "command": "toggle_side_bar" },
+  // { "keys": ["ctrl+v"], "command": "rails_magic_clipboard" },
+  // { "keys": ["ctrl+shift+v"], "command": "paste" },
+  { "keys": ["cmd+shift+r"],  "command": "reindent" },
+  { "keys": ["cmd+e"], "command": "markdown_preview_select" },
+  { "keys": ["shift+super+s"], "command": "js_to_coffee_from_selection"},
+]
